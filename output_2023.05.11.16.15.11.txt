@@ -1,0 +1,298 @@
+
+Task: id= 0 arrival time= 6 service time = 5
+Task: id= 1 arrival time= 14 service time = 4
+Task: id= 2 arrival time= 20 service time = 6
+Task: id= 3 arrival time= 12 service time = 7
+Task: id= 4 arrival time= 9 service time = 3
+Task: id= 5 arrival time= 21 service time = 4
+Task: id= 6 arrival time= 9 service time = 7
+Task: id= 7 arrival time= 18 service time = 3
+Task: id= 8 arrival time= 22 service time = 6
+Task: id= 9 arrival time= 17 service time = 7
+Task: id= 10 arrival time= 11 service time = 7
+Task: id= 11 arrival time= 7 service time = 5
+Task: id= 12 arrival time= 27 service time = 5
+Task: id= 13 arrival time= 19 service time = 4
+Task: id= 14 arrival time= 18 service time = 4
+Task: id= 15 arrival time= 8 service time = 5
+Task: id= 16 arrival time= 24 service time = 7
+Task: id= 17 arrival time= 20 service time = 4
+Task: id= 18 arrival time= 12 service time = 4
+Task: id= 19 arrival time= 9 service time = 4
+Task: id= 20 arrival time= 24 service time = 7
+Task: id= 21 arrival time= 15 service time = 4
+Task: id= 22 arrival time= 19 service time = 5
+Task: id= 23 arrival time= 15 service time = 3
+Task: id= 24 arrival time= 24 service time = 5
+Task: id= 25 arrival time= 18 service time = 7
+Task: id= 26 arrival time= 13 service time = 3
+Task: id= 27 arrival time= 20 service time = 6
+Task: id= 28 arrival time= 7 service time = 4
+Task: id= 29 arrival time= 13 service time = 6
+Task: id= 30 arrival time= 6 service time = 6
+Task: id= 31 arrival time= 9 service time = 6
+Task: id= 32 arrival time= 28 service time = 3
+Task: id= 33 arrival time= 21 service time = 6
+Task: id= 34 arrival time= 20 service time = 3
+Generated tasks list: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+
+ Start:
+
+current time:0
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:1
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:2
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:3
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:4
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:5
+waiting tasks: [Task 0:[6,5], Task 30:[6,6], Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:
+Queue: 1:
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:6
+waiting tasks: [Task 11:[7,5], Task 28:[7,4], Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 0:[6,5]]
+Queue: 1:[Task 30:[6,6]]
+Queue: 2:
+Queue: 3:
+Queue: 4:
+Queue: 5:
+current time:7
+waiting tasks: [Task 15:[8,5], Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 0:[6,4]]
+Queue: 1:[Task 30:[6,5]]
+Queue: 2:[Task 11:[7,5]]
+Queue: 3:[Task 28:[7,4]]
+Queue: 4:
+Queue: 5:
+current time:8
+waiting tasks: [Task 4:[9,3], Task 6:[9,7], Task 19:[9,4], Task 31:[9,6], Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 0:[6,3]]
+Queue: 1:[Task 30:[6,4]]
+Queue: 2:[Task 11:[7,4]]
+Queue: 3:[Task 28:[7,3]]
+Queue: 4:[Task 15:[8,5]]
+Queue: 5:
+current time:9
+waiting tasks: [Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 0:[6,2], Task 6:[9,7]][Task 0:[6,2], Task 6:[9,7]]
+Queue: 1:[Task 30:[6,3], Task 31:[9,6]][Task 30:[6,3], Task 31:[9,6]]
+Queue: 2:[Task 11:[7,3]]
+Queue: 3:[Task 28:[7,2], Task 19:[9,4]][Task 28:[7,2], Task 19:[9,4]]
+Queue: 4:[Task 15:[8,4]]
+Queue: 5:[Task 4:[9,3]]
+current time:10
+waiting tasks: [Task 10:[11,7], Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 0:[6,1], Task 6:[9,7]][Task 0:[6,1], Task 6:[9,7]]
+Queue: 1:[Task 30:[6,2], Task 31:[9,6]][Task 30:[6,2], Task 31:[9,6]]
+Queue: 2:[Task 11:[7,2]]
+Queue: 3:[Task 28:[7,1], Task 19:[9,4]][Task 28:[7,1], Task 19:[9,4]]
+Queue: 4:[Task 15:[8,3]]
+Queue: 5:[Task 4:[9,2]]
+current time:11
+waiting tasks: [Task 3:[12,7], Task 18:[12,4], Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,7]]
+Queue: 1:[Task 30:[6,1], Task 31:[9,6]][Task 30:[6,1], Task 31:[9,6]]
+Queue: 2:[Task 11:[7,1], Task 10:[11,7]][Task 11:[7,1], Task 10:[11,7]]
+Queue: 3:[Task 19:[9,4]]
+Queue: 4:[Task 15:[8,2]]
+Queue: 5:[Task 4:[9,1]]
+current time:12
+waiting tasks: [Task 26:[13,3], Task 29:[13,6], Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,6]]
+Queue: 1:[Task 31:[9,6]]
+Queue: 2:[Task 10:[11,7]]
+Queue: 3:[Task 19:[9,3]]
+Queue: 4:[Task 15:[8,1], Task 18:[12,4]][Task 15:[8,1], Task 18:[12,4]]
+Queue: 5:[Task 3:[12,7]]
+current time:13
+waiting tasks: [Task 1:[14,4], Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,5]]
+Queue: 1:[Task 31:[9,5]]
+Queue: 2:[Task 10:[11,6]]
+Queue: 3:[Task 19:[9,2], Task 26:[13,3]][Task 19:[9,2], Task 26:[13,3]]
+Queue: 4:[Task 18:[12,4], Task 29:[13,6]][Task 18:[12,4], Task 29:[13,6]]
+Queue: 5:[Task 3:[12,6]]
+current time:14
+waiting tasks: [Task 21:[15,4], Task 23:[15,3], Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,4], Task 1:[14,4]][Task 6:[9,4], Task 1:[14,4]]
+Queue: 1:[Task 31:[9,4]]
+Queue: 2:[Task 10:[11,5]]
+Queue: 3:[Task 19:[9,1], Task 26:[13,3]][Task 19:[9,1], Task 26:[13,3]]
+Queue: 4:[Task 18:[12,3], Task 29:[13,6]][Task 18:[12,3], Task 29:[13,6]]
+Queue: 5:[Task 3:[12,5]]
+current time:15
+waiting tasks: [Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,3], Task 1:[14,4]][Task 6:[9,3], Task 1:[14,4]]
+Queue: 1:[Task 31:[9,3], Task 21:[15,4]][Task 31:[9,3], Task 21:[15,4]]
+Queue: 2:[Task 10:[11,4]]
+Queue: 3:[Task 26:[13,3], Task 23:[15,3]][Task 26:[13,3], Task 23:[15,3]]
+Queue: 4:[Task 18:[12,2], Task 29:[13,6]][Task 18:[12,2], Task 29:[13,6]]
+Queue: 5:[Task 3:[12,4]]
+current time:16
+waiting tasks: [Task 9:[17,7], Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,2], Task 1:[14,4]][Task 6:[9,2], Task 1:[14,4]]
+Queue: 1:[Task 31:[9,2], Task 21:[15,4]][Task 31:[9,2], Task 21:[15,4]]
+Queue: 2:[Task 10:[11,3]]
+Queue: 3:[Task 26:[13,2], Task 23:[15,3]][Task 26:[13,2], Task 23:[15,3]]
+Queue: 4:[Task 18:[12,1], Task 29:[13,6]][Task 18:[12,1], Task 29:[13,6]]
+Queue: 5:[Task 3:[12,3]]
+current time:17
+waiting tasks: [Task 7:[18,3], Task 14:[18,4], Task 25:[18,7], Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 6:[9,1], Task 1:[14,4]][Task 6:[9,1], Task 1:[14,4]]
+Queue: 1:[Task 31:[9,1], Task 21:[15,4]][Task 31:[9,1], Task 21:[15,4]]
+Queue: 2:[Task 10:[11,2], Task 9:[17,7]][Task 10:[11,2], Task 9:[17,7]]
+Queue: 3:[Task 26:[13,1], Task 23:[15,3]][Task 26:[13,1], Task 23:[15,3]]
+Queue: 4:[Task 29:[13,6]]
+Queue: 5:[Task 3:[12,2]]
+current time:18
+waiting tasks: [Task 13:[19,4], Task 22:[19,5], Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 1:[14,4], Task 25:[18,7]][Task 1:[14,4], Task 25:[18,7]]
+Queue: 1:[Task 21:[15,4]]
+Queue: 2:[Task 10:[11,1], Task 9:[17,7]][Task 10:[11,1], Task 9:[17,7]]
+Queue: 3:[Task 23:[15,3], Task 14:[18,4]][Task 23:[15,3], Task 14:[18,4]]
+Queue: 4:[Task 29:[13,5]]
+Queue: 5:[Task 3:[12,1], Task 7:[18,3]][Task 3:[12,1], Task 7:[18,3]]
+current time:19
+waiting tasks: [Task 2:[20,6], Task 17:[20,4], Task 27:[20,6], Task 34:[20,3], Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 1:[14,3], Task 25:[18,7]][Task 1:[14,3], Task 25:[18,7]]
+Queue: 1:[Task 21:[15,3], Task 13:[19,4]][Task 21:[15,3], Task 13:[19,4]]
+Queue: 2:[Task 9:[17,7]]
+Queue: 3:[Task 23:[15,2], Task 14:[18,4]][Task 23:[15,2], Task 14:[18,4]]
+Queue: 4:[Task 29:[13,4]]
+Queue: 5:[Task 7:[18,3], Task 22:[19,5]][Task 7:[18,3], Task 22:[19,5]]
+current time:20
+waiting tasks: [Task 5:[21,4], Task 33:[21,6], Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 1:[14,2], Task 25:[18,7]][Task 1:[14,2], Task 25:[18,7]]
+Queue: 1:[Task 21:[15,2], Task 13:[19,4], Task 27:[20,6]][Task 21:[15,2], Task 13:[19,4], Task 27:[20,6]][Task 21:[15,2], Task 13:[19,4], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,6], Task 34:[20,3]][Task 9:[17,6], Task 34:[20,3]]
+Queue: 3:[Task 23:[15,1], Task 14:[18,4], Task 17:[20,4]][Task 23:[15,1], Task 14:[18,4], Task 17:[20,4]][Task 23:[15,1], Task 14:[18,4], Task 17:[20,4]]
+Queue: 4:[Task 29:[13,3], Task 2:[20,6]][Task 29:[13,3], Task 2:[20,6]]
+Queue: 5:[Task 7:[18,2], Task 22:[19,5]][Task 7:[18,2], Task 22:[19,5]]
+current time:21
+waiting tasks: [Task 8:[22,6], Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 1:[14,1], Task 25:[18,7], Task 33:[21,6]][Task 1:[14,1], Task 25:[18,7], Task 33:[21,6]][Task 1:[14,1], Task 25:[18,7], Task 33:[21,6]]
+Queue: 1:[Task 21:[15,1], Task 13:[19,4], Task 27:[20,6]][Task 21:[15,1], Task 13:[19,4], Task 27:[20,6]][Task 21:[15,1], Task 13:[19,4], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,5], Task 34:[20,3]][Task 9:[17,5], Task 34:[20,3]]
+Queue: 3:[Task 14:[18,4], Task 17:[20,4]][Task 14:[18,4], Task 17:[20,4]]
+Queue: 4:[Task 29:[13,2], Task 2:[20,6]][Task 29:[13,2], Task 2:[20,6]]
+Queue: 5:[Task 7:[18,1], Task 22:[19,5], Task 5:[21,4]][Task 7:[18,1], Task 22:[19,5], Task 5:[21,4]][Task 7:[18,1], Task 22:[19,5], Task 5:[21,4]]
+current time:22
+waiting tasks: [Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 25:[18,7], Task 33:[21,6]][Task 25:[18,7], Task 33:[21,6]]
+Queue: 1:[Task 13:[19,4], Task 27:[20,6]][Task 13:[19,4], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,4], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,4], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,4], Task 34:[20,3], Task 8:[22,6]]
+Queue: 3:[Task 14:[18,3], Task 17:[20,4]][Task 14:[18,3], Task 17:[20,4]]
+Queue: 4:[Task 29:[13,1], Task 2:[20,6]][Task 29:[13,1], Task 2:[20,6]]
+Queue: 5:[Task 22:[19,5], Task 5:[21,4]][Task 22:[19,5], Task 5:[21,4]]
+current time:23
+waiting tasks: [Task 16:[24,7], Task 20:[24,7], Task 24:[24,5], Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 25:[18,6], Task 33:[21,6]][Task 25:[18,6], Task 33:[21,6]]
+Queue: 1:[Task 13:[19,3], Task 27:[20,6]][Task 13:[19,3], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,3], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,3], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,3], Task 34:[20,3], Task 8:[22,6]]
+Queue: 3:[Task 14:[18,2], Task 17:[20,4]][Task 14:[18,2], Task 17:[20,4]]
+Queue: 4:[Task 2:[20,6]]
+Queue: 5:[Task 22:[19,4], Task 5:[21,4]][Task 22:[19,4], Task 5:[21,4]]
+current time:24
+waiting tasks: [Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 25:[18,5], Task 33:[21,6]][Task 25:[18,5], Task 33:[21,6]]
+Queue: 1:[Task 13:[19,2], Task 27:[20,6]][Task 13:[19,2], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,2], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,2], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,2], Task 34:[20,3], Task 8:[22,6]]
+Queue: 3:[Task 14:[18,1], Task 17:[20,4], Task 16:[24,7]][Task 14:[18,1], Task 17:[20,4], Task 16:[24,7]][Task 14:[18,1], Task 17:[20,4], Task 16:[24,7]]
+Queue: 4:[Task 2:[20,5], Task 20:[24,7]][Task 2:[20,5], Task 20:[24,7]]
+Queue: 5:[Task 22:[19,3], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,3], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,3], Task 5:[21,4], Task 24:[24,5]]
+current time:25
+waiting tasks: [Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 25:[18,4], Task 33:[21,6]][Task 25:[18,4], Task 33:[21,6]]
+Queue: 1:[Task 13:[19,1], Task 27:[20,6]][Task 13:[19,1], Task 27:[20,6]]
+Queue: 2:[Task 9:[17,1], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,1], Task 34:[20,3], Task 8:[22,6]][Task 9:[17,1], Task 34:[20,3], Task 8:[22,6]]
+Queue: 3:[Task 17:[20,4], Task 16:[24,7]][Task 17:[20,4], Task 16:[24,7]]
+Queue: 4:[Task 2:[20,4], Task 20:[24,7]][Task 2:[20,4], Task 20:[24,7]]
+Queue: 5:[Task 22:[19,2], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,2], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,2], Task 5:[21,4], Task 24:[24,5]]
+current time:26
+waiting tasks: [Task 12:[27,5], Task 32:[28,3]]
+Queue: 0:[Task 25:[18,3], Task 33:[21,6]][Task 25:[18,3], Task 33:[21,6]]
+Queue: 1:[Task 27:[20,6]]
+Queue: 2:[Task 34:[20,3], Task 8:[22,6]][Task 34:[20,3], Task 8:[22,6]]
+Queue: 3:[Task 17:[20,3], Task 16:[24,7]][Task 17:[20,3], Task 16:[24,7]]
+Queue: 4:[Task 2:[20,3], Task 20:[24,7]][Task 2:[20,3], Task 20:[24,7]]
+Queue: 5:[Task 22:[19,1], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,1], Task 5:[21,4], Task 24:[24,5]][Task 22:[19,1], Task 5:[21,4], Task 24:[24,5]]
+current time:27
+waiting tasks: [Task 32:[28,3]]
+Queue: 0:[Task 25:[18,2], Task 33:[21,6]][Task 25:[18,2], Task 33:[21,6]]
+Queue: 1:[Task 27:[20,5], Task 12:[27,5]][Task 27:[20,5], Task 12:[27,5]]
+Queue: 2:[Task 34:[20,2], Task 8:[22,6]][Task 34:[20,2], Task 8:[22,6]]
+Queue: 3:[Task 17:[20,2], Task 16:[24,7]][Task 17:[20,2], Task 16:[24,7]]
+Queue: 4:[Task 2:[20,2], Task 20:[24,7]][Task 2:[20,2], Task 20:[24,7]]
+Queue: 5:[Task 5:[21,4], Task 24:[24,5]][Task 5:[21,4], Task 24:[24,5]]
+current time:28
+waiting tasks: []
+Queue: 0:[Task 25:[18,1], Task 33:[21,6], Task 32:[28,3]][Task 25:[18,1], Task 33:[21,6], Task 32:[28,3]][Task 25:[18,1], Task 33:[21,6], Task 32:[28,3]]
+Queue: 1:[Task 27:[20,4], Task 12:[27,5]][Task 27:[20,4], Task 12:[27,5]]
+Queue: 2:[Task 34:[20,1], Task 8:[22,6]][Task 34:[20,1], Task 8:[22,6]]
+Queue: 3:[Task 17:[20,1], Task 16:[24,7]][Task 17:[20,1], Task 16:[24,7]]
+Queue: 4:[Task 2:[20,1], Task 20:[24,7]][Task 2:[20,1], Task 20:[24,7]]
+Queue: 5:[Task 5:[21,3], Task 24:[24,5]][Task 5:[21,3], Task 24:[24,5]]
+current time:29
+waiting tasks: []
+Queue: 0:[Task 33:[21,6], Task 32:[28,3]][Task 33:[21,6], Task 32:[28,3]]
+Queue: 1:[Task 27:[20,3], Task 12:[27,5]][Task 27:[20,3], Task 12:[27,5]]
+Queue: 2:[Task 8:[22,6]]
+Queue: 3:[Task 16:[24,7]]
+Queue: 4:[Task 20:[24,7]]
+Queue: 5:[Task 5:[21,2], Task 24:[24,5]][Task 5:[21,2], Task 24:[24,5]]
+current time:30
+waiting tasks: []
+Queue: 0:[Task 33:[21,5], Task 32:[28,3]][Task 33:[21,5], Task 32:[28,3]]
+Queue: 1:[Task 27:[20,2], Task 12:[27,5]][Task 27:[20,2], Task 12:[27,5]]
+Queue: 2:[Task 8:[22,5]]
+Queue: 3:[Task 16:[24,6]]
+Queue: 4:[Task 20:[24,6]]
+Queue: 5:[Task 5:[21,1], Task 24:[24,5]][Task 5:[21,1], Task 24:[24,5]]
+current time:31
+waiting tasks: []
+Queue: 0:[Task 33:[21,4], Task 32:[28,3]][Task 33:[21,4], Task 32:[28,3]]
+Queue: 1:[Task 27:[20,1], Task 12:[27,5]][Task 27:[20,1], Task 12:[27,5]]
+Queue: 2:[Task 8:[22,4]]
+Queue: 3:[Task 16:[24,5]]
+Queue: 4:[Task 20:[24,5]]
+Queue: 5:[Task 24:[24,5]]
+CLOSED
+AverageServiceTime=5.0

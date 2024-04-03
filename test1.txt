@@ -1,0 +1,251 @@
+
+Task: id= 0 arrival time= 6 service time = 2
+Task: id= 1 arrival time= 26 service time = 2
+Task: id= 2 arrival time= 26 service time = 3
+Task: id= 3 arrival time= 27 service time = 2
+Generated tasks list: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+
+ Start:
+
+current time:0
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:1
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:2
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:3
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:4
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:5
+waiting tasks: [Task 0:[6,2], Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:6
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:[Task 0:[6,2]]
+Queue: 1:
+current time:7
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:[Task 0:[6,1]]
+Queue: 1:
+current time:8
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:9
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:10
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:11
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:12
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:13
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:14
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:15
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:16
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:17
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:18
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:19
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:20
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:21
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:22
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:23
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:24
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:25
+waiting tasks: [Task 1:[26,2], Task 2:[26,3], Task 3:[27,2]]
+Queue: 0:
+Queue: 1:
+current time:26
+waiting tasks: [Task 3:[27,2]]
+Queue: 0:[Task 1:[26,2]]
+Queue: 1:[Task 2:[26,3]]
+current time:27
+waiting tasks: []
+Queue: 0:[Task 1:[26,1], Task 3:[27,2]][Task 1:[26,1], Task 3:[27,2]]
+Queue: 1:[Task 2:[26,2]]
+current time:28
+waiting tasks: []
+Queue: 0:[Task 3:[27,2]]
+Queue: 1:[Task 2:[26,1]]
+current time:29
+waiting tasks: []
+Queue: 0:[Task 3:[27,1]]
+Queue: 1:
+current time:30
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:31
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:32
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:33
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:34
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:35
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:36
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:37
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:38
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:39
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:40
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:41
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:42
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:43
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:44
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:45
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:46
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:47
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:48
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:49
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:50
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:51
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:52
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:53
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:54
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:55
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:56
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:57
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:58
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+current time:59
+waiting tasks: []
+Queue: 0:
+Queue: 1:
+CLOSED
+AverageServiceTime=2.25
